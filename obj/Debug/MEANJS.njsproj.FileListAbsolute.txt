@@ -1,0 +1,2 @@
+D:\DEV-Juan\GitRepository\MEANJS\obj\Debug\MEANJS.njsprojResolveAssemblyReference.cache
+D:\DEV-Juan\GitRepository\MEANJS\bin\Microsoft.NodejsTools.WebRole.dll
